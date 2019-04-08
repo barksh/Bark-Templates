@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "beforeInstall": ["echo before install"],
+        "afterInstall": ["echo after install"]
+    },
+    "replacements": {
+        "test": "try to replace this"
+    }
+}

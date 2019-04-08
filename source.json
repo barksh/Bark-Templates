@@ -1,0 +1,9 @@
+{
+    "templates": [
+        {
+            "name": "test",
+            "url": "github://barksh/bark-templates/master/packages/test/test.zip",
+            "version": "1"
+        }
+    ]
+}

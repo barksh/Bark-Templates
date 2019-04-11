@@ -2,7 +2,7 @@
     "templates": [
         {
             "name": "test",
-            "url": "github://barksh/bark-templates/master/packages/test/test.zip",
+            "url": "github://barksh/bark-templates/master/dist/test.zip",
             "version": "1"
         }
     ]
